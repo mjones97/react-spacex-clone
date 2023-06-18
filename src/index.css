@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Brandon Grotesque','brandon-grotesque',Helvetica,sans-serif;;
+  color: #FFFFFF;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.inner-left-bottom-satria {
+  max-width: 520px;
+  margin: 0px 0px 120px 60px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 200;
+  letter-spacing: 0px;
+}
+
+button {
+  min-width: 160px;
+  background-color: transparent;
+  font-size: 14px;
+  color: #FFFFFF;
+  padding: 14px;
+  margin: 30px 0 0;
+  border: 2px solid #FFFFFF;
+  text-align: center;
+  text-transform: uppercase;
+}

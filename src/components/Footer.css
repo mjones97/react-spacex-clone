@@ -1,0 +1,24 @@
+.footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    font-size: 12px;
+}
+  
+.footer-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+}
+  
+.footer-link-item {
+    margin: 0 10px;
+}
+  
+.footer-link-item a {
+    color: #fff;
+    text-decoration: none;
+}
+  

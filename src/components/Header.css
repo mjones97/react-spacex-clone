@@ -1,0 +1,19 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    background-color: transparent;
+    margin-top: 16px;
+}
+  
+.logo {
+    width: 210px;
+}
+
+.nav-link {
+    font-size: 12px;
+    font-weight: 500;
+    color: #FFF;
+}
