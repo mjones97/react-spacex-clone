@@ -59,5 +59,3 @@ Contributions to this project are welcome. If you have any suggestions, bug repo
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
-
-Feel free to further customize this README file according to your needs, adding more information, instructions, or sections as necessary.
