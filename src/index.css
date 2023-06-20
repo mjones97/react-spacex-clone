@@ -7,14 +7,14 @@
   text-transform: uppercase;
 }
 
-.inner-left-bottom-satria {
+.inner-left-bottom {
   max-width: 520px;
-  margin: 0px 0px 120px 60px;
+  margin: 0px 0px 100px 60px;
 }
 
 h1 {
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 42px;
+  font-weight: bold;
 }
 
 h3 {

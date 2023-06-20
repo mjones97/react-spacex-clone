@@ -38,7 +38,7 @@ The following components are used in the application:
 
 The following assets are used in the application:
 
-- **satria.jpeg**: Background image for the Satria launch component.
+- **psn-satria.jpeg**: Background image for the Satria launch component.
 - **transporter8-bg.jpeg**: Background image for the Transporter launch component.
 - **crs28.jpeg**: Background image for the Falcon launch component.
 - **ax2-mission.jpeg**: Background image for the Axioms mission component.
@@ -48,14 +48,8 @@ The following assets are used in the application:
 
 The application uses the following additional libraries:
 
-- **React Bootstrap**: A popular UI framework that provides pre-built components for faster development.
+- **React Bootstrap**
 
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----

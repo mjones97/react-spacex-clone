@@ -12,6 +12,14 @@ header {
     width: 210px;
 }
 
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler-icon {
+    width: 20px;
+}
+
 .nav-link {
     font-size: 12px;
     font-weight: 500;
